@@ -29,11 +29,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadKokare&layout=compact)](https://github.com/GuruprasadKokare)
 
 -------------------------------------------------------------------------------------------------------------
-- <img src="https://github-readme-stats.vercel.app/api?username=GuruprasadKokare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=GuruprasadKokare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 --------------------------------------------------------------------------------------------------------------
 
-[![Guruprasad's github activity graph](https://activity-graph.herokuapp.com/graph?username=GuruprasadKokare&theme=react-dark)](https://github.com/GuruprasadKokare/github-readme-activity-graph)
+[![Guruprasad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuruprasadKokare&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --------------------------------------------------------------------------------------------------------------
 ## Connect With Me 
