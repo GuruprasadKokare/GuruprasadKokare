@@ -33,7 +33,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-[![Guruprasad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuruprasadKokare&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guruprasad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuruprasadKokare&theme=github-compact)](https://github.com/GuruprasadKokare/github-readme-activity-graph)
 
 --------------------------------------------------------------------------------------------------------------
 ## Connect With Me 
