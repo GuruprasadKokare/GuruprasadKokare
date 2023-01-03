@@ -11,7 +11,7 @@
 --------------------------------------------------------------------------------------------------------
 
   
-
+Hello
 - 🔭 I'm Quick Learner,Engineer,Student and Developer. 
 - 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
 - 🌱 Currently learning some operating system concept and Web Developement 
