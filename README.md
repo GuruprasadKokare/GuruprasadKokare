@@ -12,7 +12,7 @@
 
   
 - 🔭 I'm Quick Learner,Engineer,Student and Developer. 
-- 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
+- 🔭 Currently Studying in Final Year Engineering (B.Tech)
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Front End Development
 - 💬 Ask me about c/c++/java/Python/JavaScript/oop concepts, DSA, HTML, CSS, Bootstrap.
