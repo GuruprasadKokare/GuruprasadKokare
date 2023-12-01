@@ -15,10 +15,9 @@
 - 🔭 Currently Studying in Final Year Engineering (B.Tech)
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Front End Development
-- 💬 Ask me about c/c++/java/Python/JavaScript/oop concepts, DSA, HTML, CSS, Bootstrap.
+- 💬 Ask me about c/c++/JavaScript/oop concepts, DSA, HTML, CSS, Bootstrap.
 - 📫 How to reach me: Twitter : https://twitter.com/GuruprasadDatt2
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: HR gives the package as per our knowledge😄
 
 -------------------------------------------------------------------------------------------------------------
 
