@@ -48,7 +48,8 @@
   
 --------------------------------------------------------------------------------------------------------------
 
-[![Guruprasad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuruprasadKokare&theme=github-compact)](#)
+[![Guruprasad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadKokare&theme=github-compact)](https://github.com/GuruprasadKokare/github-readme-activity-graph)
+
 
 --------------------------------------------------------------------------------------------------------------
 <!-- ## Connect With Me 
